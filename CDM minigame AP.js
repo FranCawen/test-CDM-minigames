@@ -71,7 +71,8 @@ document.body.innerHTML = `
         }
     </style>
     <h1>PA infinito Corazón de Melón person de Sophi🍈💖🕹️</h1>
-    <p>Este codigo lo que hace es completar automaticamente el minijuego con la maxima puntuacion asi conseguis bastantes PA, el problema: los minijuegos estas estrictamente limitados a una vez por dia :c</p>
+    <p>Este codigo lo que hace es completar automaticamente el minijuego con la maxima puntuacion asi conseguis bastantes PA</p>
+    <p>El problema: los minijuegos estas estrictamente limitados a una vez por dia 🥀 💔 😭</p>
     <p>👾💖 CDM Hack: Los minijuegos están siendo adorablemente hackeados para obtener la máxima puntuación 💖👾</p>
     <div class="loader" id="loader"></div>
     <hr/>
