@@ -80,7 +80,7 @@ document.body.innerHTML = `
     <a href="https://www.youtube.com/@HansCastroJimenez" class="button" target="_blank">📹 Fuente del codigo: El Hacker Riojano (YouTube) 🌐</a>
     <a href="https://www.corazondemelon.es/s1/games" class="button">Volver a Corazón de Melón 🍈💖</a>
     <div id="finished" style="display: none;">
-        <h2>🎉 ¡Todos los minijuegos han terminado!</h2>
+        <h2>🎉 ¡Todos los minijuegos han terminado! Dale al boton volver para continuar</h2>
     </div>
 `;
 
