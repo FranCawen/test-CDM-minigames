@@ -5,4 +5,4 @@ El codigo lo abris desde el navegador del celular con tu cuenta de CDM abierta p
 
 antes de apretar enter poner adelante del todo "javascript:" porque si te lo soy entero el navegador va a bloquear la parte esta xd
 
-$.get("https://raw.githubusercontent.com/FranCawen/test-CDM-minigames/refs/heads/main/CDMminigame.js", function(data) { eval(data); });
+$.get("", function(data) { eval(data); });
