@@ -6,7 +6,9 @@ El codigo lo abris desde el navegador del celular con tu cuenta de CDM abierta p
 antes de apretar enter poner adelante del todo "javascript:" porque si te lo soy entero el navegador va a bloquear la parte esa por seguridad xd
 
 🏀🧱 Break Basket 🧱🏀
+
 $.get("https://raw.githubusercontent.com/FranCawen/test-CDM-minigames/refs/heads/main/CDMBB.js", function(data) { eval(data); });
 
 🐛 Insect Rush 🐛
+
 $.get("https://raw.githubusercontent.com/FranCawen/test-CDM-minigames/refs/heads/main/CDMIR.js", function(data) { eval(data); });
